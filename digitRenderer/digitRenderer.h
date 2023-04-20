@@ -16,7 +16,7 @@ typedef enum{
     DEGREE_CELSIUS,
     DEGREE_FAHRENHEIT,
     MINUS,
-    RPI,
+    RPI,        //enumeration for Raspberry Pi Logo
     NULLSYM
 } symbol; 
 
